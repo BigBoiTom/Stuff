@@ -1,0 +1,14 @@
+- Zijn in de laatste 3 jaar meer of minder bedrijven in Nederland die zich bezighouden met het ontwikkelen van applied games?
+-- Meer( Pag. 5 Applied games ) en het kopje Entertainment vs Applied games ( Pag. 12 )
+
+- Wat is het favoriete game genre voor mobile gamers in Nederland?
+-- Puzzle Genre ( Pag. 31 "Three favorite genres per platform among players | The Netherlands" )
+
+- Waar in Nederland kun je de meeste opleidingen vinden die opleiden voor de games industrie?
+-- Utrecht ( Pag. 35 "Education Map of The Netherlands" )
+
+- Voor welk platform worden er in Nederland de meeste games gemaakt?
+-- Pc ( Pag. 24 "3. Entertainment game studios"
+
+-Moet je om een stage te vinden expert zijn in 1 engine (zoals unity) of meerdere talen, engines en frameworks beheren?
+-- Om een succesvollere programmeur te zijn is het handiger om meerdere talen, engines en frameworks te kennen en te beheersen ( Pag. 37 "Quality and Quantity" )
