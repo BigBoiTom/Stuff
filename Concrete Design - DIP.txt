@@ -1,0 +1,27 @@
+Omschrijving game
+
+Wat kan je als speler doen?
+- Lopen
+- Rennen
+- Springen
+- Vallen
+- Schieten
+- Doodgaan
+
+Interactables
+- Ammo
+- Health
+- Enemies
+  - Robots
+  - Drones
+- Coins
+
+Core mechanics
+- Wint als alle enemies dood zijn
+- Verliest als je zelf dood gaat
+- Coins geven je punten
+- Geraakt worden haalt punten weg
+- Platforming
+- Kill enemies doormiddel van schieten
+- Coins, Health en Ammo oppakken door eroverheen te lopen
+
