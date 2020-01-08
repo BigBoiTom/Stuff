@@ -1,0 +1,4 @@
+Extensions VS - github hulp in VS.
+
+- File -> Open -> Open from Github -> Select Repository.
+- als je iets hebt gedaan bijv tekstbestand gemaakt -> Changes -> Comment toevoegen -> Commit All and push
