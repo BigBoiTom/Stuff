@@ -1,2 +1,3 @@
-# Stuff
-sum school stuff
+School stuff like achievements 
+
+idk
